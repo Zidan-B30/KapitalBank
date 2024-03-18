@@ -8,9 +8,9 @@ Feature: Ipoteka module functionality
     And the user enters "+994 50 770" in Mobil nömrə box
     And the user selects "Evli" from Ailə vəziyyəti drop down
     And the user enters "A#" in Ailə üzvlərin sayı box
-    And the user enters "78954" in Digər xərclər və öhdəliklər box
+    And the user enters "789ABcdE152" in Digər xərclər və öhdəliklər box
     And the user clicks "Sahibkarlıq gəliri" and "Digər gəlir mənbəyi" in the checkbox
-    And the user enters "KlGlYu" in VÖEN box
+    And the user enters "KlglYu" in VÖEN box
     And the user enters "B#" in Orta aylıq xalis mənfəət (₼) box
     And the user enters "b%" in Fəaliyyət müddəti box
     And the user clicks on submit button
